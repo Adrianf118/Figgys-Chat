@@ -7,4 +7,4 @@ To run this program do the following:
   3. Run server file
   4. Then add clients to the server by running the clients file and follow the promps on the terminal and gui
 
-Its easiest to run this on the terminal
+Its easiest to run this on the terminal.
